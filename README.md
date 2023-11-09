@@ -9,9 +9,9 @@ Custom search solution using SharePoint Framework (SPFx), TypeScript and React
 * Contains all React components that are rendered on screen
 
 ### model
-* files that define custom types that are used inside of the React components
+* Files that define custom types that are used inside of the React components
 
 ### provider
-* includes provider classes that are used to retrieve data for React components
+* Includes provider classes that are used to retrieve data for React components
 
 
